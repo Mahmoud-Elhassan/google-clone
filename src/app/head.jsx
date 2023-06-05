@@ -7,7 +7,7 @@ export default function Head() {
       <meta
         http-equiv="Content-Security-Policy"
         content="upgrade-insecure-requests"
-      />
+      ></meta>
       <link rel="icon" href="/favicon.svg" />
     </>
   );
